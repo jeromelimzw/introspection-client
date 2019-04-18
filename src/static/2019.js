@@ -1,6 +1,6 @@
 const data = [
   {
-    _id: "5cb21a20d2c5d33b7465d7e9",
+    _id: "5cb5ddd8da8d852fb89ad6d8",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Trina Sobieski",
     email: "trina@thoughtworks.com",
@@ -8,49 +8,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -58,7 +50,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d7f2",
+    _id: "5cb5ddd8da8d852fb89ad6e1",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Polly Spotts",
     email: "polly@thoughtworks.com",
@@ -66,49 +58,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -116,7 +100,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d7fb",
+    _id: "5cb5ddd8da8d852fb89ad6ea",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Dalene Cassette",
     email: "dalene@thoughtworks.com",
@@ -124,49 +108,41 @@ const data = [
     categories: [
       {
         action: [],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -174,7 +150,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d804",
+    _id: "5cb5ddd8da8d852fb89ad6f3",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Tinisha Behn",
     email: "tinisha@thoughtworks.com",
@@ -182,49 +158,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -232,7 +200,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d80d",
+    _id: "5cb5ddd8da8d852fb89ad6fc",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Serafina Housand",
     email: "serafina@thoughtworks.com",
@@ -240,49 +208,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: [],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -290,7 +250,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d816",
+    _id: "5cb5ddd8da8d852fb89ad705",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Rosemarie Oleary",
     email: "rosemarie@thoughtworks.com",
@@ -298,49 +258,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -348,7 +300,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d81f",
+    _id: "5cb5ddd8da8d852fb89ad70e",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Agustin Philbrook",
     email: "agustin@thoughtworks.com",
@@ -356,49 +308,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -406,7 +350,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d828",
+    _id: "5cb5ddd8da8d852fb89ad717",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Stacia Dockstader",
     email: "stacia@thoughtworks.com",
@@ -414,49 +358,41 @@ const data = [
     categories: [
       {
         action: [],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -464,7 +400,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d831",
+    _id: "5cb5ddd8da8d852fb89ad720",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Kitty Bramble",
     email: "kitty@thoughtworks.com",
@@ -472,49 +408,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -522,7 +450,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d83a",
+    _id: "5cb5ddd8da8d852fb89ad729",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Jennette Hageman",
     email: "jennette@thoughtworks.com",
@@ -530,49 +458,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: [],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: [],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -580,7 +500,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d843",
+    _id: "5cb5ddd8da8d852fb89ad732",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Gidget Isley",
     email: "gidget@thoughtworks.com",
@@ -588,49 +508,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: [],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -638,7 +550,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d84c",
+    _id: "5cb5ddd8da8d852fb89ad73b",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Amee Lindner",
     email: "amee@thoughtworks.com",
@@ -646,49 +558,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: [],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: [],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -696,7 +600,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d855",
+    _id: "5cb5ddd8da8d852fb89ad744",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Corazon Braham",
     email: "corazon@thoughtworks.com",
@@ -704,49 +608,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -754,7 +650,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d85e",
+    _id: "5cb5ddd8da8d852fb89ad74d",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Jae Powers",
     email: "jae@thoughtworks.com",
@@ -762,49 +658,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: [],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -812,7 +700,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d867",
+    _id: "5cb5ddd8da8d852fb89ad756",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Quinn Bostic",
     email: "quinn@thoughtworks.com",
@@ -820,49 +708,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: [],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: [],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -870,7 +750,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d870",
+    _id: "5cb5ddd8da8d852fb89ad75f",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Humberto Stott",
     email: "humberto@thoughtworks.com",
@@ -878,49 +758,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -928,7 +800,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d879",
+    _id: "5cb5ddd8da8d852fb89ad768",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Demetrius Volkmann",
     email: "demetrius@thoughtworks.com",
@@ -936,49 +808,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: [],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -986,7 +850,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d882",
+    _id: "5cb5ddd8da8d852fb89ad771",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Dann Buie",
     email: "dann@thoughtworks.com",
@@ -994,49 +858,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: [],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: [],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -1044,7 +900,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d88b",
+    _id: "5cb5ddd8da8d852fb89ad77a",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Heath Kallenbach",
     email: "heath@thoughtworks.com",
@@ -1052,49 +908,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: [],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -1102,7 +950,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d894",
+    _id: "5cb5ddd8da8d852fb89ad783",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Earline Marrin",
     email: "earline@thoughtworks.com",
@@ -1110,49 +958,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -1160,7 +1000,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d89d",
+    _id: "5cb5ddd8da8d852fb89ad78c",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Denice Ebinger",
     email: "denice@thoughtworks.com",
@@ -1168,49 +1008,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -1218,7 +1050,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8a6",
+    _id: "5cb5ddd8da8d852fb89ad795",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Nakita Truehart",
     email: "nakita@thoughtworks.com",
@@ -1226,49 +1058,41 @@ const data = [
     categories: [
       {
         action: [],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: [],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -1276,7 +1100,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8af",
+    _id: "5cb5ddd8da8d852fb89ad79e",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Junie Screen",
     email: "junie@thoughtworks.com",
@@ -1284,49 +1108,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: [],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -1334,7 +1150,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8b8",
+    _id: "5cb5ddd8da8d852fb89ad7a7",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Dani Leopold",
     email: "dani@thoughtworks.com",
@@ -1342,49 +1158,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -1392,7 +1200,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8c1",
+    _id: "5cb5ddd8da8d852fb89ad7b0",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Melany Baltzell",
     email: "melany@thoughtworks.com",
@@ -1400,49 +1208,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: [],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -1450,7 +1250,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8ca",
+    _id: "5cb5ddd8da8d852fb89ad7b9",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Lucius Summerfield",
     email: "lucius@thoughtworks.com",
@@ -1458,49 +1258,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: [],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -1508,7 +1300,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8d3",
+    _id: "5cb5ddd8da8d852fb89ad7c2",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Johna Findley",
     email: "johna@thoughtworks.com",
@@ -1516,49 +1308,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -1566,7 +1350,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8dc",
+    _id: "5cb5ddd8da8d852fb89ad7cb",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Oleta Sherron",
     email: "oleta@thoughtworks.com",
@@ -1574,49 +1358,41 @@ const data = [
     categories: [
       {
         action: [],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -1624,7 +1400,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8e5",
+    _id: "5cb5ddd8da8d852fb89ad7d4",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Bryce Heatwole",
     email: "bryce@thoughtworks.com",
@@ -1632,49 +1408,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: [],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: [],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -1682,7 +1450,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8ee",
+    _id: "5cb5ddd8da8d852fb89ad7dd",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Jordon Mckinnie",
     email: "jordon@thoughtworks.com",
@@ -1690,49 +1458,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: [],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -1740,7 +1500,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d8f7",
+    _id: "5cb5ddd8da8d852fb89ad7e6",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Wyatt Mccarroll",
     email: "wyatt@thoughtworks.com",
@@ -1748,49 +1508,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: [],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -1798,7 +1550,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d900",
+    _id: "5cb5ddd8da8d852fb89ad7ef",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Lanelle Elzey",
     email: "lanelle@thoughtworks.com",
@@ -1806,49 +1558,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: [],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: [],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -1856,7 +1600,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d909",
+    _id: "5cb5ddd8da8d852fb89ad7f8",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Bee Cullison",
     email: "bee@thoughtworks.com",
@@ -1864,49 +1608,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -1914,7 +1650,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d912",
+    _id: "5cb5ddd8da8d852fb89ad801",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Elia Pippen",
     email: "elia@thoughtworks.com",
@@ -1922,49 +1658,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -1972,7 +1700,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d91b",
+    _id: "5cb5ddd8da8d852fb89ad80a",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Daria Resch",
     email: "daria@thoughtworks.com",
@@ -1980,49 +1708,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -2030,7 +1750,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d924",
+    _id: "5cb5ddd8da8d852fb89ad813",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Charis Hersom",
     email: "charis@thoughtworks.com",
@@ -2038,49 +1758,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -2088,7 +1800,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d92d",
+    _id: "5cb5ddd8da8d852fb89ad81c",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Gema Trudeau",
     email: "gema@thoughtworks.com",
@@ -2096,49 +1808,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "4.Activated",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -2146,7 +1850,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d936",
+    _id: "5cb5ddd8da8d852fb89ad825",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Alethea Kornreich",
     email: "alethea@thoughtworks.com",
@@ -2154,49 +1858,41 @@ const data = [
     categories: [
       {
         action: [],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -2204,7 +1900,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d93f",
+    _id: "5cb5ddd8da8d852fb89ad82e",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Taryn Franzoni",
     email: "taryn@thoughtworks.com",
@@ -2212,49 +1908,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: [],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -2262,7 +1950,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d948",
+    _id: "5cb5ddd8da8d852fb89ad837",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Gregorio Martinson",
     email: "gregorio@thoughtworks.com",
@@ -2270,49 +1958,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: [],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: [],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -2320,7 +2000,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d951",
+    _id: "5cb5ddd8da8d852fb89ad840",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Arnoldo Dashiell",
     email: "arnoldo@thoughtworks.com",
@@ -2328,49 +2008,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: [],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "2.Informed",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -2378,7 +2050,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d95a",
+    _id: "5cb5ddd8da8d852fb89ad849",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Ma Thierry",
     email: "ma@thoughtworks.com",
@@ -2386,49 +2058,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: [],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "1.Open",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -2436,7 +2100,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d963",
+    _id: "5cb5ddd8da8d852fb89ad852",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Sherman Sotelo",
     email: "sherman@thoughtworks.com",
@@ -2444,49 +2108,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -2494,7 +2150,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d96c",
+    _id: "5cb5ddd8da8d852fb89ad85b",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Elvina Drees",
     email: "elvina@thoughtworks.com",
@@ -2502,49 +2158,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "1.Open",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to share"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -2552,7 +2200,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d975",
+    _id: "5cb5ddd8da8d852fb89ad864",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Yuko Ellenwood",
     email: "yuko@thoughtworks.com",
@@ -2560,49 +2208,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "3.Engaged",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: [],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -2610,7 +2250,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d97e",
+    _id: "5cb5ddd8da8d852fb89ad86d",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Donnie Hough",
     email: "donnie@thoughtworks.com",
@@ -2618,49 +2258,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "4.Activated",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to explore"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "3.Engaged",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: [],
-        name: "Equitable Tech",
         level: "3.Engaged",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -2668,7 +2300,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d987",
+    _id: "5cb5ddd8da8d852fb89ad876",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Chiquita Morell",
     email: "chiquita@thoughtworks.com",
@@ -2676,49 +2308,41 @@ const data = [
     categories: [
       {
         action: [],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to explore"],
-        name: "Religious Minorities",
         level: "2.Informed",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "2.Informed",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "4.Activated",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to share"],
-        name: "Equitable Tech",
         level: "4.Activated",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to explore"],
-        name: "Climate Injustice",
         level: "2.Informed",
         category: "Climate Injustice"
       }
@@ -2726,7 +2350,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d990",
+    _id: "5cb5ddd8da8d852fb89ad87f",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Genna Coursey",
     email: "genna@thoughtworks.com",
@@ -2734,49 +2358,41 @@ const data = [
     categories: [
       {
         action: ["Would like to deepen"],
-        name: "Society and Privilege",
         level: "2.Informed",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "4.Activated",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to explore"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "1.Open",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "1.Open",
         category: "Climate Injustice"
       }
@@ -2784,7 +2400,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d999",
+    _id: "5cb5ddd8da8d852fb89ad888",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Tijuana Lepe",
     email: "tijuana@thoughtworks.com",
@@ -2792,49 +2408,41 @@ const data = [
     categories: [
       {
         action: ["Would like to share"],
-        name: "Society and Privilege",
         level: "4.Activated",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to deepen"],
-        name: "Religious Minorities",
         level: "1.Open",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Diversity and Inclusion",
         level: "3.Engaged",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to deepen"],
-        name: "Economic Justice",
         level: "3.Engaged",
         category: "Economic Justice"
       },
       {
         action: ["Would like to deepen"],
-        name: "Racial Minorities",
         level: "3.Engaged",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to share"],
-        name: "Sexual Orientation and Gender Identity",
         level: "1.Open",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to explore"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "4.Activated",
         category: "Climate Injustice"
       }
@@ -2842,7 +2450,7 @@ const data = [
     __v: 0
   },
   {
-    _id: "5cb21a20d2c5d33b7465d9a2",
+    _id: "5cb5ddd8da8d852fb89ad891",
     timeStamp: "1999-12-31T16:00:00.000Z",
     name: "Onita Uber",
     email: "onita@thoughtworks.com",
@@ -2850,49 +2458,41 @@ const data = [
     categories: [
       {
         action: ["Would like to explore"],
-        name: "Society and Privilege",
         level: "1.Open",
         category: "Society and Privilege"
       },
       {
         action: ["Would like to share"],
-        name: "Religious Minorities",
         level: "3.Engaged",
         category: "Religious Minorities"
       },
       {
         action: ["Would like to explore"],
-        name: "Diversity and Inclusion",
         level: "1.Open",
         category: "Diversity and Inclusion"
       },
       {
         action: ["Would like to share"],
-        name: "Economic Justice",
         level: "2.Informed",
         category: "Economic Justice"
       },
       {
         action: ["Would like to share"],
-        name: "Racial Minorities",
         level: "2.Informed",
         category: "Racial Minorities"
       },
       {
         action: ["Would like to deepen"],
-        name: "Sexual Orientation and Gender Identity",
         level: "4.Activated",
         category: "Sexual Orientation and Gender Identity"
       },
       {
         action: ["Would like to deepen"],
-        name: "Equitable Tech",
         level: "2.Informed",
         category: "Equitable Tech"
       },
       {
         action: ["Would like to deepen"],
-        name: "Climate Injustice",
         level: "3.Engaged",
         category: "Climate Injustice"
       }
@@ -2900,5 +2500,4 @@ const data = [
     __v: 0
   }
 ];
-
 module.exports = data;

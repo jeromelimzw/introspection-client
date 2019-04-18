@@ -9,18 +9,22 @@ class DragAndDropUpload extends Component {
   }
 
   handleOnDrop = acceptedFiles => {
-    const modified = new Date(Date.now());
-    this.setState({
-      filename: acceptedFiles[0].name,
-      filesize: bytes(acceptedFiles[0].size),
-      fileuploadtime: modified.toLocaleString()
-    });
+    if (acceptedFiles.length !== 0) {
+      const modified = new Date(Date.now());
+      this.setState({
+        filename: acceptedFiles[0].name,
+        filesize: bytes(acceptedFiles[0].size),
+        fileuploadtime: modified.toLocaleString()
+      });
+    } else {
+      alert("only csv files accepted");
+    }
   };
 
   render() {
     return (
       <div className="mt2">
-        <Dropzone onDrop={this.handleOnDrop}>
+        <Dropzone onDrop={this.handleOnDrop} accept=".csv">
           {({ getRootProps, getInputProps }) => (
             <section>
               <span {...getRootProps()}>

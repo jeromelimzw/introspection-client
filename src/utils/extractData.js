@@ -1,4 +1,4 @@
-const data = require("../static/data");
+const data = require("../static/2018");
 const _ = require("lodash");
 
 const getCategories = () => {

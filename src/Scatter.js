@@ -31,11 +31,15 @@ class Scatter extends Component {
     });
   };
 
+  openAlert = () => {
+    alert("i am an alert");
+  };
+
   render() {
     const { radius, theta, names } = this.state;
     return (
       <Plot
-        className="animated bounceInLeft ml3 mt0"
+        className="animated bounceInLeft tc mt0"
         useResizeHandler={true}
         data={[
           ...categoriesAngleArray().map(a => ({
@@ -52,8 +56,25 @@ class Scatter extends Component {
             text: ["open", "informed", "engaged", "activated"],
             mode: "text",
             type: "scatterpolar",
-            hoverinfo: "none",
-            textfont: { size: 15 }
+            hoverinfo: "text",
+            hovertext: [
+              `OPEN: No or only a little understanding about
+            the topic, but open to learn more about it.`,
+              `INFORMED: Has a baseline understanding of the
+              topic.`,
+              `ENGAGED: Has a good understanding of the topic. `,
+              `ACTIVATED: Engage actively in discussions and
+              debates regarding the topic`
+            ],
+
+            textfont: { size: 15 },
+            hoverlabel: {
+              bgcolor: "black",
+              bordercolor: "black",
+              font: { family: "calibri", color: "white", size: 20 },
+              align: "left",
+              namelength: 30
+            }
           },
           {
             r: radius,
