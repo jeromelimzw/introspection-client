@@ -56,16 +56,7 @@ class Scatter extends Component {
             text: ["open", "informed", "engaged", "activated"],
             mode: "text",
             type: "scatterpolar",
-            hoverinfo: "text",
-            hovertext: [
-              `OPEN: No or only a little understanding about
-            the topic, but open to learn more about it.`,
-              `INFORMED: Has a baseline understanding of the
-              topic.`,
-              `ENGAGED: Has a good understanding of the topic. `,
-              `ACTIVATED: Engage actively in discussions and
-              debates regarding the topic`
-            ],
+            hoverinfo: "none",
 
             textfont: { size: 15 },
             hoverlabel: {
